@@ -1,0 +1,22 @@
+* { 
+
+margin:0px;
+padding:0px;
+ 
+}
+#carrusel{
+    margin: 0px auto;
+    height: 668px;
+    width: 1500px;
+}
+     #carrusel .item{
+         background: green;
+         height: 668px;
+         width: 1200px;
+     }
+     #carrusel .item img{
+         min-width: 200px;
+         height: 668px;
+         width: 1200px;
+     } 
+
