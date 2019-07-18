@@ -13,3 +13,4 @@ Desarrollado mediante JEE con el patrón MVC.
 Para la gestión de dependencias se ha utilizaddo la herramienta MAVEN.
 La Capa de Persistencia se ha desarrollado mediante JPA con el motor de persistencia HIBERNATE.
 En la parte de la Vista se ha utilizado JQuery, AJAX, JSON, HTML5, CSS3.
+La base de datos esta hecha en MySQL.
